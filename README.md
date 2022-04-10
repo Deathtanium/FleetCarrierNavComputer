@@ -1,3 +1,7 @@
+DEPRECATED DUE TO ODYSSEY UI CHANGES AND HORIZONS LOSING SUPPORT
+
+I'm only keeping this up for archival
+
 I don't recommend custom HUD's with this.
 
 1.Generate system list with spansh.co.uk/fleet-carrier
